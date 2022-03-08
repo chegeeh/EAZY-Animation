@@ -5,4 +5,6 @@ This is the simplest way yet to create awesome animations using javascript in wi
 https://eazy-lottie-animations.maxieczar.repl.co/
 
 >>>>>>>>>>>>>DEMO<<<<<<<<<<<<<<<<<
+
+
 ![Screenshot_2022-02-16_10_49_48](https://user-images.githubusercontent.com/41311815/157335360-593fbaf3-80f9-40e7-acbc-9c619491ba4d.png)
